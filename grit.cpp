@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std
+using namespace std;
 
 int main()
 {
@@ -12,7 +12,7 @@ cout << "Not all - 5; Not much - 4; Somewhat - 3; Mostly - 2; Very much - 1: ";
 cin >> x;
 sum += x;
 
-grit = sum / total:
+grit = sum / total;
 cout << "Hello" << grit << endl;
 return 0;
 }
